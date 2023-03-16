@@ -7,11 +7,11 @@
 Python, Pandas, Matplotlib, Numpy, Seaborn, Scipy, Tableau.
 
 ***Навыки:***<br>
-Импорт данных из SQL с использованием Python, выгрузка данных в csv-формат, построение дашборда в Tableau, создание презентации.
+Декомпозиция, обработка данных, дубликаты, пропуски, сортировка, визуализация данных, матрица корреляций, исследовательский анализ данных, проверка гипотез, создание презентации, создание дашборда.
 
 ***Статус проекта:*** <br>
 Завершен.
 
-## [Ссылка на дашборд](https://public.tableau.com/app/profile/alexander4262/viz/automation_project_dashboard/Dashboard1)
+## [Ссылка на дашборд](https://public.tableau.com/app/profile/alexander4262/viz/final_project_bank_16775122612180/main_sheet)
 
-## [Ссылка на презентацию](https://github.com/alexkandinsky/yandex_practicum_data_analyst/blob/main/10.%20Автоматизация/Анализ%20пользовательского%20взаимодействия%20с%20карточками%20Яндекс.Дзен.pdf)
+## [Ссылка на презентацию](https://github.com/alexkandinsky/yandex_practicum_data_analyst/blob/main/11.%20Выпускной%20проект.%20Анализ%20оттока%20клиентов%20банка/Анализ%20оттока%20клиентов%20банка%20Метанпром.pdf)
