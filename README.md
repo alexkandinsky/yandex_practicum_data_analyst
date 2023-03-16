@@ -1,4 +1,4 @@
-# Проекты курса Яндекс.Практикум - [«Аналитик данных»](https://practicum.yandex.ru/data-analyst/)
+## Проекты курса Яндекс.Практикум - [«Аналитик данных»](https://practicum.yandex.ru/data-analyst/)
 
 
 
