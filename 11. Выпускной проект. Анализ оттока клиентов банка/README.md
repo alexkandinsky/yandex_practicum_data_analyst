@@ -14,4 +14,4 @@ Python, Pandas, Matplotlib, Numpy, Seaborn, Scipy, Tableau.
 
 ## [Ссылка на дашборд](https://public.tableau.com/app/profile/alexander4262/viz/final_project_bank_16775122612180/main_sheet)
 
-## [Ссылка на презентацию](https://github.com/alexkandinsky/yandex_practicum_data_analyst/blob/main/11.%20Выпускной%20проект.%20Анализ%20оттока%20клиентов%20банка/Анализ%20оттока%20клиентов%20банка%20Метанпром.pdf)
+## [Ссылка на презентацию](https://drive.google.com/file/d/1Tfzzqd_NEHnZF0ZK53vGiA6Gba8ua-Wu/view?usp=share_link)
