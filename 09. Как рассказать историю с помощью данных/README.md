@@ -14,4 +14,4 @@ Python, Pandas, Matplotlib, Numpy, Plotly, Seaborn.
 
 ## [Проект с полной визуализацией](https://nbviewer.org/github/alexkandinsky/yandex_practicum_data_analyst/blob/main/09.%20Как%20рассказать%20историю%20с%20помощью%20данных/09_project_public_catering.ipynb)
 
-## [Ссылка на презентацию](https://drive.google.com/file/d/1V8FkKnKORCFIVjHYkcRnZjBhhRGgCVME/view?usp=share_link)
+## [Ссылка на презентацию](https://github.com/alexkandinsky/yandex_practicum_data_analyst/blob/main/09.%20Как%20рассказать%20историю%20с%20помощью%20данных/Анализ%20рынка%20%20заведений%20общественного%20питания%20Москвы.pdf)
