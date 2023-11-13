@@ -14,4 +14,4 @@ Python, Pandas, SQLAlchemy, PostrgeSQL, Tableau.
 
 ## [Ссылка на дашборд](https://public.tableau.com/app/profile/alexander4262/viz/automation_project_dashboard/Dashboard1)
 
-## [Ссылка на презентацию](https://drive.google.com/file/d/1xaBwXYcgm9VRdMEOnlLn3QhCxWeju0MT/view?usp=share_link)
+## [Ссылка на презентацию](https://github.com/alexkandinsky/yandex_practicum_data_analyst/blob/main/10.%20Автоматизация/Анализ%20пользовательского%20взаимодействия%20с%20карточками%20Яндекс.Дзен.pdf)
